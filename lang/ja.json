@@ -406,18 +406,18 @@
       "condition": "樹海の島で一つ目の首長竜に会う"
     },
     "sewers_painting": {
-      "name": "Strange Markings",
-      "description": "Those are some weird pictures...",
-      "condition": "Interact with any of the drawings in the Sewers"
+      "name": "怪しい絵画",
+      "description": "妙な絵だ・・・",
+      "condition": "下水道美術館にある絵を見る"
     },
     "mafurako_block_world": {
-      "name": "Block Traveler",
-      "description": "You've been here before.",
-      "condition": "Visit every place where Mafurako can teleport you in Block World"
+      "name": "ブロックの旅人",
+      "description": "前にもここに来たような",
+      "condition": "ブロックの世界でマフラー子がテレポートできる場所を全て訪れる"
     },
     "desert_block_world": {
-      "name": "From Block to Mono",
-      "condition": "Visit White Desert A from Block World"
+      "name": "ブロックから白黒へ",
+      "condition": "ブロックの世界から白黒世界に行く"
     }
   },
   "2kki": {
@@ -4010,110 +4010,255 @@
       "condition": "金目月で目の付いたお月様を見上げる"
     },
     "diner_bathhouse": {
-      "name": "Family-Owned Diner",
-      "description": "Take a load off before OR after your bath.",
-      "condition": "Enter the dining hall of the Bathhouse"
+      "name": "家族経営の食堂",
+      "description": "銭湯に行く前か後に一休みしようよ。",
+      "condition": "食堂に到達する"
     },
     "telephone_virtual_city": {
-      "name": "Unexpected Call",
-      "description": "I don't think the cow from River Complex understands why Virtual City's inhabitants live in a place full of numbers.",
-      "condition": "Use the phone in Virtual City to go to River Complex"
+      "name": "予期せぬ着信",
+      "description": "その牛は、数字だらけの場所に住む人々のことが理解できない",
+      "condition": "バーチャルシティにある公衆電話を使って安置に行く"
     },
     "red_haired_girl_thumbtack": {
-      "name": "Broken Solitude",
-      "description": "One thumbtack away...",
-      "condition": "Interact with the red-haired girl in the small black room in Thumbtack World"
+      "name": "壊れた孤独",
+      "description": "画鋲ひとつで・・・",
+      "condition": "彼方にいる紅子に会う"
     },
     "girl_colorful_rose_garden": {
-      "name": "Colorful Girl",
-      "description": "Fateful fade",
-      "condition": "Use the Rainbow effect near the girl in the Colorless Rose Garden"
+      "name": "カラフルな女の子",
+      "description": "運命的なフェード",
+      "condition": "異薔薇の茨部屋にいるモノクロの女の子の近くでにじを使用する"
     },
     "girl_cherry_willow_path": {
-      "name": "Cherry Willow Girl",
-      "description": "May I sit next to you? Then we can have some green tea together~",
-      "condition": "See the girl in Cherry Willow Path"
+      "name": "桜柳の少女",
+      "description": "お隣、よろしいですか？一緒にお茶を飲みましょう！",
+      "condition": "桜柳にいる和服少女に会う"
     },
     "girl_colorless_rose_garden": {
-      "name": "Colorless Girl",
-      "condition": "Obtain the menu type 58. If you have already unlocked it, return to the Colorless Rose Garden."
+      "name": "無色の少女",
+      "condition": "メニュータイプ58を取得する。すでに所持している場合は、見つけた場所に行く"
     },
     "girl_candyfloss_sea": {
-      "name": "Cotton Candy Friends",
-      "description": "Would you like some?",
-      "condition": "Meet the pink-haired girl in Candyfloss Sea"
+      "name": "わたあめフレンズ",
+      "description": "お味はいかが？",
+      "condition": "わたあめの隔離エリアにいるピンク髪の少女に会う"
     },
     "penguin_gb_corrupt": {
-      "name": "The Legendary Artifact",
-      "description": "You shouldn't touch that...",
-      "condition": "Interact with the flashing red orb in the Penguin GB Game"
+      "name": "伝説のアーティファクト",
+      "description": "それに触れてはいけない・・・",
+      "condition": "ペンギンゲームで赤く点滅するオーブに触れる"
     },
     "house_abyssal_garden": {
-      "name": "I’m Not Looking...",
-      "condition": "See the girl in the Bloodstained Eye House of the Abyssal Garden"
+      "name": "私は見てないから・・・",
+      "condition": "血痕と眼にいる赤髪の女の子に会う"
     },
     "violent_fruit_district": {
-      "name": "VIOLENCE... and Fruits Too.",
-      "condition": "Visit Violent Fruit District"
+      "name": "暴力・・・そして果物も。",
+      "condition": "線画市果忌に到達する"
     },
     "witch_checkered_towers": {
-      "name": "Presto! Purple!",
-      "description": "What if it was purple?",
-      "condition": "Interact with the witch at the Checkered Towers leading to Topdown Dungeon"
+      "name": "すぐに！紫になる！",
+      "description": "紫だったら？",
+      "condition": "藤紫の市松盤面にいる魔法使い帽子の人に会う"
     },
     "boat_birch_docks": {
-      "name": "Ferryman's Souvenir",
-      "description": "Through autumn waters, set sail for places yet unknown",
-      "condition": "See the boat ride event in Birch Docks"
+      "name": "舟守のお土産",
+      "description": "秋の海を抜けて、まだ見ぬ場所へと出航する",
+      "condition": "燈籠の桟橋で舟に乗る"
     },
     "golden_coral_shoal": {
-      "name": "Saffron and Stingrays",
-      "description": "Like diving into a sea of lemonade!",
-      "condition": "Visit the golden version of Coral Shoal"
+      "name": "黄金とエイ",
+      "description": "まるでレモネードの海に飛び込むようだ！",
+      "condition": "夕刻のコーラルビーチに到達する"
     },
     "penguin_gb_game": {
-      "name": "Virtual Penguin",
-      "description": "I may not be not an expert on penguinology but this suit is really comfortable!",
-      "condition": "Complete the Penguin GB Game"
+      "name": "バーチャルぺんぎん",
+      "description": "私はペンギン学の専門家ではないが、この衣装は本当に快適だよ！",
+      "condition": "ペンギンゲームをクリアして強制起床する"
     },
     "megusuri_uri_visine": {
-      "name": "Eye Drops Vendor",
-      "description": "These eyes are very sensitive so he cares a lot about his work",
-      "condition": "Find and interact with Megusuri Uri in the three different parts of Visine World"
+      "name": "目薬売り",
+      "description": "この目は非常に繊細だから、彼は非常に気を遣う",
+      "condition": "目玉薬で3つのパターンの目薬売りを見つけて話しかける"
     },
     "rgb_passage": {
-      "name": "RGB Tile Path",
+      "name": "RGBのタイル通路",
       "description": "owari2 by sakai",
-      "condition": "Enter RGB Passage"
+      "condition": "嘔吐庭側からネオン通路に到達する"
     },
-    "chaos_exhibition_scuts": {
-      "name": "Chaotic Soul Artifact",
-      "description": "It seethes with chaotic energy.",
-      "condition": "Unlock all shortcuts in Chaos Exhibition"
+    "debug_badge": {
+      "name": "終わりのないオムライス迷宮",
+      "description": "放っといて。",
+      "condition": "オムライス迷宮に到達する"
     },
     "haunted_village_dolls": {
-      "name": "Paper Doll",
-      "condition": "Use the Teru Teru Bōzu effect somewhere in the Haunted Village"
+      "name": "てるてるぼうず",
+      "condition": "久遠の里の誰もいない部屋でてるてるぼうずを使う"
     },
     "painter_kun_art_gallery": {
-      "name": "Painter-Kun",
-      "description": "Does he take commissions?",
-      "condition": "Meet Painter-Kun in the Art Gallery"
+      "name": "仮面の絵描き",
+      "description": "彼はコミッションを受け付けていますか？",
+      "condition": "絵画の通路で仮面の絵描きに会う"
     },
     "2kki_night_sceneries": {
-      "name": "Astrophile",
-      "description": "Let's go stargazing!",
-      "condition": "Find night sky sceneries in Twisted Thickets, Foliage Estate, Submerged Communications Area, Shallows of Deceit, Nocturnal Grove, Windswept Scarlet Sands, Planetarium, and Tomb of Velleities"
+      "name": "天体愛好家",
+      "description": "今夜星を見に行こう",
+      "condition": "霧の森、森徊、水没電柱、嘘つきの浅瀬、幽谷、砂と風、星の夜、Butterflyで夜空の風景を見つける"
     },
     "overgrowth_outlook": {
-      "name": "Mother Nature's Hideaway",
-      "description": "You've come far to find this spot. Care for some fruit?",
-      "condition": "Successfully reach the Overgrowth Outlook"
+      "name": "母なる自然の隠れ家",
+      "description": "この場所を見つけるために遠くからやってきた。ご褒美に果物はいかが？",
+      "condition": "八休に到達する"
     },
     "2kki_menu_40": {
-      "name": "Fractal Keylock",
-      "description": "Secrets beyond the keyhole await you.",
-      "condition": "Obtain the menu type 60. If you have already unlocked it, return to the menu type room in Flicker Trail."
+      "name": "フラクタルな鍵穴",
+      "description": "鍵穴の向こうの秘密を見に行こうよ",
+      "condition": "メニュータイプ60を入手する。すでに持っている場合は、入手した場所に戻る。"
+    },
+    "eyeball_mono_school": {
+      "name": "目には目を",
+      "description": "これ以上見つめてはいけない・・・",
+      "condition": "モノクロ学校の目玉を見る"
+    },
+    "space_cyber_bar_drink": {
+      "name": "グラスの中の宇宙",
+      "description": "カルモトリン入りのお酒",
+      "condition": "電脳海館のサイBARでうちゅうふくのエフェクトを身につけて電子飲料を注文する"
+    },
+    "body_nerium_lab": {
+      "name": "中毒者の心",
+      "description": "快楽を渇望する運命にある。",
+      "condition": "ネリウムラボで大きな少女を見る"
+    },
+    "archeology_dunes": {
+      "name": "緋色の絶滅",
+      "description": "恐竜は男を食べて、女は台地を受け継ぐ",
+      "condition": "化赤砂漠に到達する"
+    },
+    "shroom_pollution_strict": {
+      "name": "散発的視線",
+      "description": "菌類は見つめ返す",
+      "condition": "赤錆の煙突街の巨大キノコに到達する"
+    },
+    "tatami_room": {
+      "name": "ジャパニーズスタイルの8畳和室",
+      "description": "冥土の土産部屋",
+      "condition": "八畳和室に到達する"
+    },
+    "creature_house_vases": {
+      "name": "ピンクの生き物",
+      "description": "どうすればいいかは、わかってる",
+      "condition": "水瓶と蝋燭の迷宮にいるピンク色の生き物に話しかける"
+    },
+    "girl_sing_port_city": {
+      "name": "一人で座ってる女の子",
+      "description": "私の小さな歌を聴いて！",
+      "condition": "緑の港町にいる少女の隣に座り、彼女の歌を聴く"
+    },
+    "bird_cuckoo_skyline": {
+      "name": "Free Bird",
+      "description": "The sky's the limit!",
+      "condition": "See the mechanical bird at Cuckoo Skyline Express"
+    },
+    "cat_spiked_fence_garden": {
+      "name": "Kitty-clops",
+      "description": "Mrreow!~",
+      "condition": "Howl at the cat on the wall in Spiked Fence Garden"
+    },
+    "sweet_medical_utopia": {
+      "name": "Sweettopia.exe",
+      "description": "Welcome to this wonderful, cute hospital!",
+      "condition": "Visit Sweet Medical Utopia"
+    },
+    "novaflow_mask_balloon": {
+      "name": "Go with the Flow",
+      "description": "A silly machine!",
+      "condition": "Equip the NovAflow mask in Balloon Park"
+    },
+    "mountains_repentance": {
+      "name": "Repose amidst Grief",
+      "description": "A rather peaceful scene for a place like this...",
+      "condition": "Visit the Twin Mountains view in Graveyard of Repentance"
+    },
+    "cakegirl_cheese_mount": {
+      "name": "CheeseCAKE",
+      "description": "A proper cheese to cake ratio!",
+      "condition": "Equip the Cake effect near Cheesecake Girl on the Cheesecake Mountain"
+    },
+    "tree_concrete_world": {
+      "name": "The Laughing Tree",
+      "description": "What's so funny?",
+      "condition": "Interact with the laughing tree in Concrete World"
+    },
+    "croco_golf_district": {
+      "name": "Little Golfing Nap",
+      "description": "Dreaming of a hole in one",
+      "condition": "Wake up the crocodile in Breezy Golfing District"
+    },
+    "anetra_rave_pinwheel": {
+      "name": "Blood Rave",
+      "description": "How should I react, under this attack? Danger here, danger there, nowhere to escape to and nobody to hear.",
+      "condition": "Trigger Anetra's Rave in Pinwheel Countryside"
+    },
+    "teru_grilled_octopus": {
+      "name": "Charred Octopus",
+      "description": "That's a bit more than well done...",
+      "condition": "Use the Teru Teru Bōzu effect in Grilled Octopus World"
+    },
+    "morning_suburbs": {
+      "name": "Another Day",
+      "description": "Good morning, world.",
+      "condition": "Visit Morning Suburbs"
+    },
+    "cornelius_bloom": {
+      "name": "Gnomed!",
+      "description": "I'M A GNOME AND YOU'VE BEEN GNOMED!!!!!!!!",
+      "condition": "Interact with Cornelius in Bloom 99"
+    },
+    "secret_society_president": {
+      "name": "悲願の祈り",
+      "description": "またいつか、君に逢いたい",
+      "condition": "秘密結社の隠し部屋で社長に話しかける"
+    },
+    "beniko_thumbtack": {
+      "name": "彼岸の祈り",
+      "description": "いつかまた、あなたに会いたい",
+      "condition": "彼岸の丘で強制起床する"
+    },
+    "aiko_dream_pool_int": {
+      "name": "目",
+      "description": "視線を感じる",
+      "condition": "夢プールの単眼の子に話しかける"
+    },
+    "secret_room_neon_apt": {
+      "name": "病みつきの味",
+      "description": "ハマったら最後、もう逃げられない",
+      "condition": "シアンホテルの赤い小部屋に到達する"
+    },
+    "bed_lighthouse_himalayan": {
+      "name": "Sweet Girl, Salty Sea",
+      "description": "I hope her cooking isn't TOO salty...",
+      "condition": "Sleep in the lighthouse in Himalayan Salt Shoal"
+    },
+    "hakogone_visine_world": {
+      "name": "Ommetaphobia",
+      "description": "After all, were the eye drops supposed to prevent something worse from happening?",
+      "condition": "Find the new occupant of Hakoko's box in the Eye Shop of Visine World after making her be gone"
+    },
+    "overgrown_gate": {
+      "name": "Eden",
+      "description": "The gates of the \"Garden\"",
+      "condition": "Visit Overgrown Gate"
+    },
+    "robot_hand_hub": {
+      "name": "Anomalous Entity Protocol",
+      "description": "ENGAGING LIFEFORM SCANNING INTERFACE.",
+      "condition": "Use the Marginal or Polygon effect near the white robot in The Hand Hub"
+    },
+    "jade_block_mounds": {
+      "name": "Cubes of Jade",
+      "description": "Trade them for staircases!!",
+      "condition": "Enter Jade Block Mounds"
     }
   },
   "unconscious": {
@@ -4245,14 +4390,14 @@
       "condition": "Experience the Bubble Flight event in Soapy Baths"
     },
     "anglerfish_human_mesa": {
-      "name": "Reverse Fishing",
-      "description": "I can't believe you fell for that...",
-      "condition": "Get eaten by the anglerfish in Human Mesa"
+      "name": "逆釣り",
+      "description": "あんなあからさまなら釣り餌にかかるなんて・・・",
+      "condition": "人間台地で巨大アンコウに食べられる"
     },
     "indoors_wmw": {
-      "name": "Read It and Weep!",
-      "description": "Eternal despair.",
-      "condition": "Enter the indoors area in Weeping Monsters World"
+      "name": "いいぞ！もっと泣け！",
+      "description": "終わらぬ絶望。",
+      "condition": "泣き虫世界の洞窟に到達する"
     },
     "formless_garden": {
       "name": "Free Flowing",
@@ -4320,7 +4465,7 @@
     "death_field_buried_memory": {
       "name": "A Gruesome Fate",
       "description": "Who could've done this to you?",
-      "condition": "Interact the the electric pylon in Field of Buried Memory "
+      "condition": "Interact with the electric pylon in Field of Buried Memory"
     },
     "bed_hometown": {
       "name": "A Nostalgic Night",
@@ -4361,10 +4506,6 @@
       "name": "One Dopey Fish",
       "description": "You must have a keen eye for aquatic life",
       "condition": "See the dopefish in Underwater Pipes"
-    },
-    "orchid_haven": {
-      "name": "The Orchids",
-      "condition": "View the two versions of Orchid Haven"
     },
     "porridge_colorful_village": {
       "name": "Oh, You Found Us!",
@@ -4467,6 +4608,143 @@
       "name": "Pet Pet Pat Pot Pet",
       "description": "Pet Minna. Love Minna.",
       "condition": "Stand under the skeletal hand in Candy Lagoon"
+    },
+    "coyote_rave_ruins": {
+      "name": "Dancing Coyote",
+      "description": "Coyotes are good dancers",
+      "condition": "View the Coyote Rave event in Lavender Ruins"
+    },
+    "witch_fantasy_forest": {
+      "name": "Starlight Witch",
+      "description": "Twinkling starlight",
+      "condition": "See the Starlight Witch in Fantasy Forest"
+    },
+    "menu_golf_maze": {
+      "name": "Minna Woods",
+      "description": "Congratulations, you're the champion!",
+      "condition": "Obtain the Golfer menu theme. If you have already unlocked it, return to the Mini Golf Maze."
+    },
+    "menu_chromatic_slabs": {
+      "name": "Out of Focus",
+      "condition": "Obtain the Chromatic menu theme. If you have already unlocked it, return to the Chromatic Slabs World."
+    },
+    "cultist_sub_stadium": {
+      "name": "Occult Entertainment",
+      "description": "Behind the mystique, they really aren't so different from us.",
+      "condition": "Find the hidden cultists in their two different hideouts in Subterranean Stadium"
+    },
+    "lantern_head_gbc_village": {
+      "name": "Lantern Head",
+      "description": "I wasn't expecting to find someone like you down here!",
+      "condition": "Find Lantern Head under GBC Village"
+    },
+    "wandering_together": {
+      "name": "Wandering Together!",
+      "description": "Let's go for a ride, my wandering friend!",
+      "condition": "Trigger the Wandering Together event"
+    },
+    "ride_train_station": {
+      "name": "Lag Ride",
+      "description": "I'll take a ride on the train ride",
+      "condition": "Trigger the Train Ride event in Train Station"
+    },
+    "cosmic_horror": {
+      "name": "Celestial Horrors",
+      "description": "Curiosity is a treacherous thing.",
+      "condition": "Trigger the Cosmic Horror event in Celestial Platforms"
+    },
+    "moon_snowy_world": {
+      "name": "Snowy Night",
+      "condition": "Look up at the moon in Snowy World"
+    },
+    "house_bright_cloud": {
+      "name": "Butterfleye",
+      "description": "Cast away in the space between then and now",
+      "condition": "Reach the house in Bright Cloud Zone"
+    },
+    "figure_burning_building": {
+      "name": "Slow Burn",
+      "condition": "Witness the Figure in the Flames event at the front of the Burning Building"
+    },
+    "night_train_station": {
+      "name": "Missed the Train",
+      "description": "3.9% chance for you to have missed the train, how unlucky are you???",
+      "condition": "Trigger the Night Train event in Train Station"
+    },
+    "pathway_rgb_sewers": {
+      "name": "Bufotoxin",
+      "description": "Who knew these frogs could be so... unnerving.",
+      "condition": "Enter the glitched pathway in RGB Sewers"
+    },
+    "cat_septic_rodentia": {
+      "name": "Nyam Nyam Nyam",
+      "description": "I thought you would be friendly!",
+      "condition": "Interact with the cat in Septic while using the Rodentia eidolon"
+    },
+    "bunny_wisteria_grove": {
+      "name": "Graffiti Bunnies",
+      "description": "This would make for a great picnic spot! I just wish I'd brought food for the bunnies too...",
+      "condition": "See the bunny graffiti in Wisteria Grove"
+    },
+    "hadie_brut_warehouse": {
+      "name": "Brutalist Breaktime",
+      "description": "I left my lighter at home...",
+      "condition": "Use the Soulfire eidolon to light Hadie's cigarette in Brutalist Warehouse"
+    },
+    "prisoner_glass_cathedral": {
+      "name": "Prison of Glass",
+      "description": "Sealed away, bound by starry shackles...",
+      "condition": "Find the Celestial Prisoner in Glass Cathedral"
+    },
+    "realistic_field_all": {
+      "name": "Landscape of Cryptids",
+      "description": "Flowering fields and tentacled beasts",
+      "condition": "Visit all of the areas in Realistic Field"
+    },
+    "phanton_wisteria_grove": {
+      "name": "The Phantom Last Dance",
+      "description": "Don't let your wings remain down little ghost, there is still a whole dance ahead.",
+      "condition": "Find the Wisteria Phantom in Wisteria Grove"
+    },
+    "minna_punish_mono_msl": {
+      "name": "Futile Struggle",
+      "description": "One must imagine Minna happy",
+      "condition": "Trigger the Minnatsuki's Punishment event in the Monochrome Mausoleum"
+    },
+    "laptop_tragic_dimension": {
+      "name": "Blurryface",
+      "description": "The ghost of you is close to me...",
+      "condition": "Interact with the laptop in Tragic Dimension"
+    },
+    "snail_mossy_aquarium": {
+      "name": "Shell Friend",
+      "description": "Welcome to my little shellter",
+      "condition": "Interact with the snail fella in Moss Aquarium"
+    },
+    "angel_flower_valley_apt": {
+      "name": "Seraphic Roomie",
+      "description": "I've got my Eye on you, Dear.",
+      "condition": "Interact with Angel in Flower Valley Apartments"
+    },
+    "tatami_galaxy": {
+      "name": "Constellation of Lanterns",
+      "description": "Glowing memories.",
+      "condition": "Visit Tatami Galaxy"
+    },
+    "graffiti_ruminating_mdws": {
+      "name": "Her Eyes",
+      "description": "Spending the days ruminating of a future that could have been.",
+      "condition": "See the eye graffiti in Ruminating Meadows using an altered sight eidolon"
+    },
+    "dress_smiling_pen_office": {
+      "name": "Minna in Black",
+      "description": "PROFITS!!!",
+      "condition": "Wear the suit in Smiling Pen Office"
+    },
+    "wanderer_flower_vly_apt": {
+      "name": "A Girl's Rest",
+      "description": "Oh hey, I've seen you before! Um... Were you... Minnatsuki?",
+      "condition": "Find the Wanderer on her balcony in Flower Valley Apartments"
     }
   },
   "flow": {
@@ -4643,6 +4921,11 @@
     "rust_ending": {
       "name": "Oxidation",
       "condition": "See the Rust Ending"
+    },
+    "cleaner_sugar_hole": {
+      "name": "Gentle Cleaner",
+      "description": "A sugary welcome",
+      "condition": "Compliment the Cleaner with the Dress effect in Sugar Hole"
     }
   },
   "prayers": {
@@ -4740,6 +5023,11 @@
       "name": "うらめしや～",
       "description": "神社の一角には不気味な友人が住んでます",
       "condition": "Miko Shrineでからかさに話しかける"
+    },
+    "chimiko_shrine_anger": {
+      "name": "Tainted Shrine",
+      "description": "You mess with one of us, you mess with all of us",
+      "condition": "Anger all of the Chimikos in Miko Shrine"
     }
   },
   "deepdreams": {
@@ -4929,6 +5217,11 @@
     "dd_ending_3": {
       "name": "Above Horizon",
       "condition": "See the Ending #3"
+    },
+    "metallic_abandoned_lab": {
+      "name": "Bee Boo-Boo Bop, Boo-Boo Beep!",
+      "description": "Bee-boo-boo, boo-boo-bop? Bee-boo-boo-bop? Boo-boo-bee-bop? Not \"bee-boo-boo-beep\"? Bop? Beep? Boo-boo-bop! ",
+      "condition": "Obtain the Metallic alter. If you have already unlocked it, return to the Abandoned Lab."
     }
   },
   "someday": {
@@ -5291,6 +5584,11 @@
       "name": "檻の美貌",
       "description": "彼女は色彩の虜だ",
       "condition": "Hotelで巨大なガラスに閉じ込められている少女を見つける"
+    },
+    "creature_void_murals": {
+      "name": "A Cold Bloody Figure",
+      "description": "You could use a warm healing.",
+      "condition": "See the injured bloody creature in Void Murals"
     }
   },
   "braingirl": {
@@ -5954,9 +6252,9 @@
       "condition": "Old Arcadeにいる追いかけにメリケンサックを使って話しかける"
     },
     "monochrome_pixel_room": {
-      "name": "Manifested Fatigue",
-      "description": "Clock hands never lie",
-      "condition": "Enter the Monochrome Pixel Room"
+      "name": "明示される正気度",
+      "description": "時計の針はうそをつかない",
+      "condition": "Monochrome Pixel Roomに到達する"
     }
   },
   "ultraviolet": {
@@ -6100,6 +6398,16 @@
     "uv_egg_effect": {
       "name": "緑の卵と......",
       "condition": "：ピンクっぽ大陸でたまごのエフェクトを取得する"
+    },
+    "girl_old_storehouse": {
+      "name": "Doll Unboxing",
+      "description": "Aww, she's just shy!",
+      "condition": "See and attract the blonde girl outside of her box using the Ribbon or Cake effect in Old Storehouse World"
+    },
+    "emerald_square": {
+      "name": "Emerald Church",
+      "description": "A key point of the events",
+      "condition": "Visit Emerald Square"
     }
   },
   "sheawaits": {
@@ -6351,9 +6659,9 @@
       "condition": "Oil Worldの巨大な猫にTuning Fork effectを使う"
     },
     "snail_pool_world": {
-      "name": "Friends of the Pool",
-      "description": "Do you think these guys roll into each other for fun?",
-      "condition": "Interact with any pool snail creature in Pool World"
+      "name": "プールで会えるともだち",
+      "description": "この子たちは面白半分でビリヤードしてると思う？",
+      "condition": "Pool Worldにいる緑のカタツムリに話しかける"
     }
   },
   "tsushin": {
@@ -6488,6 +6796,11 @@
       "name": "古代の飲料",
       "description": "価値のある飲み物です！",
       "condition": "Ancient Civilizationのbarに到達する"
+    },
+    "microwave_library": {
+      "name": "Microwave",
+      "description": "Oops! Looks like the pudding is kneaded.",
+      "condition": "Obtain the Microwave effect. If you have already unlocked it, return to the Library."
     }
   },
   "nostalgic": {

@@ -4082,10 +4082,10 @@
       "description": "Attends, est-ce que je suis pas déjà ven... euh, est-ce que j'ai pas déjà vu ça autre part ?",
       "condition": "Visiter le RGB Passage"
     },
-    "chaos_exhibition_scuts": {
-      "name": "Artefacte animique chaotique",
-      "description": "Il bouille d'une énergie chaotique.",
-      "condition": "Débloquer tous les raccourcis à Chaos Exhibition"
+    "debug_badge": {
+      "name": "Allées omelettes infinies",
+      "description": "La légende raconte que d'affamés aventuriers se seraient perdus là-bas et seraient toujours à la recherche d'une sortie...",
+      "condition": "Visiter l'Omurice Labyrinth"
     },
     "haunted_village_dolls": {
       "name": "Poupée en papier",
@@ -4110,6 +4110,151 @@
       "name": "Serrure fractale",
       "description": "Des secrets derrière cette serrure vous attendent.",
       "condition": "Obtenir le style de menu 60. Si vous l'avez déjà obtenu, retournez dans la salle du style de menu à Flicker Trail."
+    },
+    "eyeball_mono_school": {
+      "name": "Bataille de regards",
+      "description": "Regarde une seconde de plus, et tu vas regretter ce qui va t'arriver !",
+      "condition": "Voir l'un des globes oculaires à la Monochrome School"
+    },
+    "space_cyber_bar_drink": {
+      "name": "L'univerre",
+      "description": "Avec karmotrine optionelle.",
+      "condition": "Commander une boisson au Cyber Bar avec l'effet Astronaute équipé"
+    },
+    "body_nerium_lab": {
+      "name": "Cœur d'une addicte",
+      "description": "Condamnée à rechercher le plaisir en vain.",
+      "condition": "Voir le cadavre de la fille au Nerium Lab"
+    },
+    "archeology_dunes": {
+      "name": "Extinction écarlate",
+      "description": "Dinosaure mange homme, femme hérite terre",
+      "condition": "Visiter les Archeology Dunes"
+    },
+    "shroom_pollution_strict": {
+      "name": "Regard sporédique",
+      "description": "Le champi vous regarde en retour.",
+      "condition": "Visiter la Champi-zone au Pollution District"
+    },
+    "tatami_room": {
+      "name": "Chambre au style japonais avec tatami",
+      "description": "Une chambre du monde sous-terrain",
+      "condition": "Entrer dans la Tatami Room"
+    },
+    "creature_house_vases": {
+      "name": "La créature",
+      "description": "Elle sait comment faire la chose",
+      "condition": "Interagir avec la créature rose dans la House of Vases"
+    },
+    "girl_sing_port_city": {
+      "name": "Fille seule assise",
+      "description": "Écoute ma petite chanson.",
+      "condition": "S'asseoir à côté de la fille aux cheveux verts à Port City et l'entendre chanter"
+    },
+    "bird_cuckoo_skyline": {
+      "name": "Oiseau libre",
+      "description": "Le ciel est la limite !",
+      "condition": "Voir l'oiseau mécanique au Cuckoo Skyline Express"
+    },
+    "cat_spiked_fence_garden": {
+      "name": "Chaton ronron",
+      "description": "Miaaaaooowww !~",
+      "condition": "Hurler sur le chat sur le mur au Spiked Fence Garden"
+    },
+    "sweet_medical_utopia": {
+      "name": "Doustopia.exe",
+      "description": "Bienvenue dans mon merveilleux et incroyablement mignon hôpital !",
+      "condition": "Visiter le Sweet Medical Utopia"
+    },
+    "novaflow_mask_balloon": {
+      "name": "Le nouveau flow est arrivé",
+      "description": "Une machine rigolote !",
+      "condition": "Équiper le masque NovAflow au Balloon Park"
+    },
+    "mountains_repentance": {
+      "name": "Repos parmi la culpabilité",
+      "description": "Tiens, c'est une vue plutôt paisible pour un tel lieu...",
+      "condition": "Voir le paysage des Montagnes Jumelles au Graveyard of Repentance"
+    },
+    "cakegirl_cheese_mount": {
+      "name": "GÂTEAU au Fromage",
+      "description": "Du gâteau PAS au fromage ?! ÇA EXISTE ?!",
+      "condition": "Équiper l'effet Gâteau à proximité de la Fille Gâteau au Fromage sur la Cheesecake Mountain"
+    },
+    "tree_concrete_world": {
+      "name": "L'arbre riant",
+      "description": "Qu'il y a-t-il de si drôle ?",
+      "condition": "Interagir avec l'arbre riant au Concrete World"
+    },
+    "croco_golf_district": {
+      "name": "Petite sieste de golfeur",
+      "description": "Rêvant d'un trou en un",
+      "condition": "Réveiller le crocodile au Breezy Golfing District"
+    },
+    "anetra_rave_pinwheel": {
+      "name": "Rave saignante",
+      "description": "Comment devrais-je réagir, attaquée comme telle ? Le danger est ici, le danger est là, il y a nulle part pour s'échapper et personne à entendre.",
+      "condition": "Déclencher la Rave d'Anetra à Pinwheel Countryside"
+    },
+    "teru_grilled_octopus": {
+      "name": "Poulpe cramé",
+      "description": "C'est un peu plus que juste à point...",
+      "condition": "Utiliser l'effet Teru Teru Bōzu au Grilled Octopus World"
+    },
+    "morning_suburbs": {
+      "name": "Un autre jour",
+      "description": "Bonjour le monde.",
+      "condition": "Visiter les Morning Suburbs"
+    },
+    "cornelius_bloom": {
+      "name": "Gnomée !",
+      "description": "J'SUIS UN GNOME ET TU T'ES FAIT GNOMER !!!!!!!!",
+      "condition": "Interagir avec Cornelius à Bloom 99"
+    },
+    "secret_society_president": {
+      "name": "Prie pour ma fille",
+      "description": "Quand j'étais perdue, tu étais parti.",
+      "condition": "Interagir avec le président de la Secret Society s'agenouillant en face d'un bocal d'eau"
+    },
+    "beniko_thumbtack": {
+      "name": "Erre à la recherche de mon âme",
+      "description": "Quand j'étais perdue, tu étais là pour moi.",
+      "condition": "Interagir avec Beniko au bord de la falaise au Thumbtack World"
+    },
+    "aiko_dream_pool_int": {
+      "name": "Œil",
+      "description": "Je peux sentir son œil sur moi.",
+      "condition": "Interagir avec Aiko à la Dream Pool"
+    },
+    "secret_room_neon_apt": {
+      "name": "Ma douce...",
+      "description": "Tu pensais vraiment que tu pouvais t'échapper ?",
+      "condition": "Atteindre la salle interdite de l'Appartement Néon de la Pleasure Street"
+    },
+    "bed_lighthouse_himalayan": {
+      "name": "Douce fille, mer salée",
+      "description": "J'espère que sa cuisine n'est PAS trop salée...",
+      "condition": "Dormir dans le phare de l'Himalayan Salt Shoal"
+    },
+    "hakogone_visine_world": {
+      "name": "Ommatophobie",
+      "description": "Après tout, est-ce que les larmes n'étaient pas là pour prévenir quelque chose de pire d'arriver ?",
+      "condition": "Trouver le nouvel occupant de la boîte d'Hakoko dans la Boutique Œil du Visine World après l'avoir fait partir"
+    },
+    "overgrown_gate": {
+      "name": "Éden",
+      "description": "Les portes du « Jardin »",
+      "condition": "Visiter l'Overgrown Gate"
+    },
+    "robot_hand_hub": {
+      "name": "Protocole d'entité anomal",
+      "description": "LANCEMENT DE L'INTERFACE DE SCANNAGE DE FORMES DE VIE.",
+      "condition": "Utiliser l'effet Marginal ou Polygon à proximité du robot blanc à The Hand Hub"
+    },
+    "jade_block_mounds": {
+      "name": "Cubes de jade",
+      "description": "Échange-les pour des escaliers !!",
+      "condition": "Visiter les Jade Block Mounds"
     }
   },
   "unconscious": {
@@ -4358,10 +4503,6 @@
       "description": "Tu dois avoir un œil perçant pour débusquer les créatures du monde aquatique...",
       "condition": "Trouver le poissot aux Underwater Pipes"
     },
-    "orchid_haven": {
-      "name": "Les orchidées",
-      "condition": "Voir les deux versions de l'Orchid Haven"
-    },
     "porridge_colorful_village": {
       "name": "Oh, tu nous as trouvé !",
       "description": "Peux-tu danser comme les habitants du village coloré ?",
@@ -4463,6 +4604,143 @@
       "name": "Papouilles du Lagon Bonbon",
       "description": "Minna, c'est la paix, Minna, c'est l'amour.",
       "condition": "Se tenir en dessous de la main squelettique au Candy Lagoon"
+    },
+    "coyote_rave_ruins": {
+      "name": "Coyote dansant",
+      "description": "Les coyotes sont de bons danseurs !",
+      "condition": "Voir l'événement de la Rave Coyote aux Lavender Ruins"
+    },
+    "witch_fantasy_forest": {
+      "name": "Sorcière Étoilée",
+      "description": "Idole étoilée scintillante",
+      "condition": "Voir la Sorcière Étoilée dans la Fantasy Forest"
+    },
+    "menu_golf_maze": {
+      "name": "Birdie de Minnatsuki",
+      "description": "Félicitations, vous êtes désormais la championne !",
+      "condition": "Obtenir le thème de menu Golfeur. Si vous l'avez déjà obtenu, retournez au Mini Golf Maze."
+    },
+    "menu_chromatic_slabs": {
+      "name": "Hors de vue",
+      "condition": "Obtenir le thème de menu Chromatique. Si vous l'avez déjà obtenu, retournez au Chromatic Slabs World."
+    },
+    "cultist_sub_stadium": {
+      "name": "Amusement occulte",
+      "description": "En dehors du côté mystique, ils ne sont pas si différents de nous..",
+      "condition": "Trouver tous les occultistes cachés dans leurs deux différentes cachettes au Subterranean Stadium"
+    },
+    "lantern_head_gbc_village": {
+      "name": "Lantête",
+      "description": "Je ne m'attendais pas à trouver quelqu'un de ta trempe dans un tel lieu !",
+      "condition": "Trouver Lantête sous le GBC Village"
+    },
+    "wandering_together": {
+      "name": "Virée à Deux !",
+      "description": "Partons en virée, mon amie voyageuse !",
+      "condition": "Déclencher l'événement Virée à Deux"
+    },
+    "ride_train_station": {
+      "name": "Fatigue du voyage",
+      "description": "Eh bah, il est en avance ce train, autant en profiter pour se reposer...",
+      "condition": "Déclencher l'événement de la Virée en Train à la Train Station"
+    },
+    "cosmic_horror": {
+      "name": "Horreurs célestes",
+      "description": "La curiosité est un vilain défaut.",
+      "condition": "Déclencher l'événement de l'Horreur Cosmique aux Celestial Platforms"
+    },
+    "moon_snowy_world": {
+      "name": "Nuit enneigée",
+      "condition": "Regarder la lune au Snowy World"
+    },
+    "house_bright_cloud": {
+      "name": "Papillœil",
+      "description": "Jeté dans un espace entre le passé et le présent",
+      "condition": "Atteindre la maison à la Bright Cloud Zone"
+    },
+    "figure_burning_building": {
+      "name": "Brûlure lente",
+      "condition": "Déclencher l'Événement Sans Issue en face du Burning Building"
+    },
+    "night_train_station": {
+      "name": "Train manqué",
+      "description": "Il y avait 3,9% de chance que tu loupes ce train, à quel point es-tu malchanceuse ???",
+      "condition": "Déclencher l'événement du Train de Nuit à la Train Station"
+    },
+    "pathway_rgb_sewers": {
+      "name": "Bufotoxine",
+      "description": "Qui aurait cru que ces grenouilles pouvaient être aussi... dérangeantes.",
+      "condition": "Visiter le sentier bugué aux RGB Sewers"
+    },
+    "cat_septic_rodentia": {
+      "name": "Nyom nyom nyom",
+      "description": "Je pensais que tu étais amical !",
+      "condition": "Interagir avec le chat à Septic en utilisant l'eidolon Rodentia"
+    },
+    "bunny_wisteria_grove": {
+      "name": "Lapinous en graffiti",
+      "description": "C'est un lieu de pique-nique parfait ! J'aurais juste aimé apporter de la nourriture pour les lapinous aussi...",
+      "condition": "Trouver le graffiti de lapin à la Wisteria Grove"
+    },
+    "hadie_brut_warehouse": {
+      "name": "Pause brutaliste",
+      "description": "J'ai laissé mon briquet chez moi...",
+      "condition": "Utiliser l'eidolon Feu d'âme pour allumer la cigarette d'Hadie à la Brutalist Warehouse"
+    },
+    "prisoner_glass_cathedral": {
+      "name": "Prison de verre",
+      "description": "Emprisonnée au loin de tout, liée par des chaînes étoilées...",
+      "condition": "Trouver la Prisonnière Céleste à la Glass Cathedral"
+    },
+    "realistic_field_all": {
+      "name": "Paysage de cryptides",
+      "description": "Des champs fleuris et des bêtes tentaculaires",
+      "condition": "Visiter toutes les zones du Realistic Field"
+    },
+    "phanton_wisteria_grove": {
+      "name": "La dernière danse du Revenant",
+      "description": "Ne laisse pas tes ailes rester en repli p'tit fantôme, il te reste toujours une dernière danse à exécuter.",
+      "condition": "Trouver le Revenant Glycine à la Wisteria Grove"
+    },
+    "minna_punish_mono_msl": {
+      "name": "Lutte futile",
+      "description": "L'un doit s'imaginer Minna heureuse",
+      "condition": "Déclencher l'événement de la Punition de Minnatsuki au Monochrome Mausoleum"
+    },
+    "laptop_tragic_dimension": {
+      "name": "Visage flou",
+      "description": "Le fantôme te représentant est proche de moi...",
+      "condition": "Interagir avec l'ordinateur portable à la Tragic Dimension"
+    },
+    "snail_mossy_aquarium": {
+      "name": "Ami abri",
+      "description": "Bienvenue dans mon petit escarbri",
+      "condition": "Interagir avec l'escar'pote au Moss Aquarium"
+    },
+    "angel_flower_valley_apt": {
+      "name": "Camarade de chambre séraphique",
+      "description": "Je garde un Œil sur toi, ma chérie.",
+      "condition": "Interagir avec Ange aux Flower Valley Apartments"
+    },
+    "tatami_galaxy": {
+      "name": "Constellation de lanternes",
+      "description": "Souvenirs brillants.",
+      "condition": "Visiter la Tatami Galaxy"
+    },
+    "graffiti_ruminating_mdws": {
+      "name": "Ses yeux",
+      "description": "Passant ses journées ruminant à un futur qui aurait pu avoir lieu.",
+      "condition": "Voir le graffiti œil aux Ruminating Meadows en utilisant un eidolon altérant la vision"
+    },
+    "dress_smiling_pen_office": {
+      "name": "Minna in Black",
+      "description": "PROFITE !!!",
+      "condition": "Porter le costume au Smiling Pen Office"
+    },
+    "wanderer_flower_vly_apt": {
+      "name": "Repos d'une fille",
+      "description": "Oh, hé, je t'ai déjà vue avant ! Hum... tu t'appelais... Minnatsuki ?",
+      "condition": "Trouver la Voyageuse sur son balcon aux Flower Valley Apartments"
     }
   },
   "flow": {
@@ -4535,7 +4813,7 @@
     },
     "oreko": {
       "name": "Oreko",
-      "condition": "Obtenir l'effet Casque de plongée. Si vous l'avez déjà obtenu, retournez dans la zone principale du Submarine World."
+      "condition": "Obtenir l'effet Casque de plongée. Si vous l'avez déjà obtenu, retournez au Désert Sous-marin du Submarine World."
     },
     "onigo_childbirth": {
       "name": "Accouchement d'Onigo",
@@ -4639,6 +4917,11 @@
     "rust_ending": {
       "name": "Oxydation",
       "condition": "Voir la fin Rust"
+    },
+    "cleaner_sugar_hole": {
+      "name": "Gentille Femme de Ménage",
+      "description": "Un bienvenue sucré",
+      "condition": "Complimenter la Femme de Ménage avec l'effet Robe au Sugar Hole"
     }
   },
   "prayers": {
@@ -4736,6 +5019,11 @@
       "name": "Urameshiya !!",
       "description": "Un ami effrayant résidant dans un des coins du sanctuaire...",
       "condition": "Interagir avec le kasa-obake dans le Miko Shrine"
+    },
+    "chimiko_shrine_anger": {
+      "name": "Sanctuaire teinté",
+      "description": "Tu tombes dans mes pattes, tu tombes dans les pattes de tout le monde",
+      "condition": "Énerver toutes les Chimikos au Miko Shrine"
     }
   },
   "deepdreams": {
@@ -4925,6 +5213,11 @@
     "dd_ending_3": {
       "name": "Par-delà l'horizon",
       "condition": "Atteindre la fin 3"
+    },
+    "metallic_abandoned_lab": {
+      "name": "Bip boup-boup bouup, boup-boup biip !",
+      "description": "Bip-boup-boup, boup-boup-bouup ? Bip-boup-boup-boup ? Boup-boup-bip-boup ? Pas « bip-boup-boup-biip » ? Boup ? Biip ? Boup-bouup-boup ! ",
+      "condition": "Obtenir l'alter Métallique. Si vous l'avez déjà obtenu, retournez à l'Abandoned Lab."
     }
   },
   "someday": {
@@ -5287,6 +5580,11 @@
       "name": "Beauté enfermée",
       "description": "Piégée par les couleurs",
       "condition": "Voir la femme géante sous verre à l'arrière de l'Hotel"
+    },
+    "creature_void_murals": {
+      "name": "Une silhouette saignante froide",
+      "description": "Tu pourrais utiliser une méthode de soin chaude.",
+      "condition": "Trouver la créature blessée saignant aux Void Murals"
     }
   },
   "braingirl": {
@@ -6096,6 +6394,16 @@
     "uv_egg_effect": {
       "name": "Des œufs verts et...",
       "condition": "Obtenir l'effet Œuf. Si vous l'avez déjà obtenu, retournez au Pinkish Continent."
+    },
+    "girl_old_storehouse": {
+      "name": "Déballage de poupée",
+      "description": "Aww, elle est juste timide !",
+      "condition": "Voir et attirer la fille blonde en dehors de sa boîte en utilisant l'effet Rubans ou Gâteau au Old Storehouse World"
+    },
+    "emerald_square": {
+      "name": "Église Émeraude",
+      "description": "Un lieu clé des événements",
+      "condition": "Visiter l'Emerald Square"
     }
   },
   "sheawaits": {
@@ -6484,6 +6792,11 @@
       "name": "Boisson d'un autre temps",
       "description": "Une boisson à haute valeur, énergétique et économique !",
       "condition": "Visiter le bar dans l'Ancient Civilization"
+    },
+    "microwave_library": {
+      "name": "Micro-ondes",
+      "description": "Oups ! On dirait bien que le flan a pétri.",
+      "condition": "Obtenir l'effet Micro-ondes. Si vous l'avez déjà obtenu, retournez à la Library."
     }
   },
   "nostalgic": {

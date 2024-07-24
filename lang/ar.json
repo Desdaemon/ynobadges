@@ -133,291 +133,291 @@
   },
   "yume": {
     "kalimba": {
-      "name": "KALIMBA",
-      "condition": "Tune into the KALIMBA TV channel"
+      "name": "كاليمبا",
+      "condition": "تابع قناة كاليمبا التليفزيونية"
     },
     "a_r_m": {
-      "name": "Ancient Raves",
-      "condition": "Experience the Aztec Rave Monkey"
+      "name": "جنون قديم",
+      "condition": "جن جنونك مع القرد الأزتيك الهائج"
     },
     "boombox": {
-      "name": "Boombox",
-      "condition": "Watch the Toriningen party from afar"
+      "name": "مشغل موسيقى",
+      "condition": "شاهد حفلة تورينينجن من بعيد"
     },
     "takofuusen": {
-      "name": "Takofuusen",
-      "condition": "Encounter Takofuusen in the White Desert"
+      "name": "التاكوفووسن",
+      "condition": "قابل تاكوفووسن في الصحراء البيضاء"
     },
     "uboa": {
-      "name": "Uboa",
-      "condition": "Fall into Uboa's Trap"
+      "name": "أُبوا",
+      "condition": "أوقع نفسك في فخ أُبوا"
     },
     "blackcat": {
-      "name": "Black Cat",
-      "condition": "Trigger the witch flight event on the mall rooftop"
+      "name": "قط أسود",
+      "condition": "فعل حدث الساحرة الطائرة على سطح مركز التسوق"
     },
     "face": {
-      "name": "KyuuKyuu-kun",
-      "description": "Fancy a massage?",
-      "condition": "Trigger the FACE event"
+      "name": "كيوكيو-كن",
+      "description": "هل ترغبين بتدليك؟",
+      "condition": "فعل حدث الملك الأحمر"
     },
     "glitch": {
-      "name": "�� �������",
+      "name": "������ �� ��",
       "description": "R̵̫̣͎͊̉ķ̶͓̺̓̃̚M̷̧̜̮̒̿͂g̴̺̏͘Ŗ̵̝̲͛̉̎̄Ḫ̶̲̣̤̾V̴̢͚͔̘́u̵̳̽͆̑͝Z̷͇̈́̿̇Ẇ̵̬̼͉̪̓͊9̸̧̟̈̔̆ṳ̶̞̑̒",
-      "condition": "Trigger the FC Dungeon glitch"
+      "condition": "فعل حدث يدعى \"خلل في زنزانة اف سي\""
     },
     "mars": {
-      "name": "Mars-san",
-      "condition": "Visit Mars-san"
+      "name": "مريخ-سان",
+      "condition": "قم بزيارة مريخ-سان"
     },
     "organoid": {
-      "name": "No Escape",
-      "condition": "Stab Organoid"
+      "name": "لا مخرج",
+      "condition": "اطعن اورغانود"
     },
     "seahorse": {
-      "name": "Seahorse",
-      "description": "That's not very nice...",
-      "condition": "Stab the Seahorse in the Barracks Settlement"
+      "name": "فرس البحر",
+      "description": "لم يكن هذا طيباً منك...",
+      "condition": "اطعن فرس البحر في مدينة الأكواخ"
     },
     "melt": {
-      "name": "Melted-tsuki",
-      "condition": "Watch Madotsuki melt as a snowman beside the fire"
+      "name": "ذابو-تسوكي",
+      "condition": "شاهد مادوتسوكي وهي تذوب كرجل ثلجي عندما يكون أمام النار"
     },
     "cube_guru": {
-      "name": "Cube Guru",
-      "description": "It knows...",
-      "condition": "Interact with the Cube Guru in Windmill World"
+      "name": "غورو المكعب",
+      "description": "هو يعلم...",
+      "condition": "تفاعل مع غورو المكعب في عالم طاحونات الهواء"
     },
     "nekoin": {
-      "name": "Nekoin",
-      "condition": "Interact with Nekoin and have 10000 Yen or more"
+      "name": "قطمة",
+      "condition": "تفاعل مع قطمة واكتسب 10000 ين أو أكثر"
     },
     "nekoin_gold": {
-      "name": "Golden Nekoin",
-      "condition": "Interact with Nekoin and have 50000 Yen or more"
+      "name": "قطمة ذهبية",
+      "condition": "تفاعل مع قطمة واكتسب 50000 ين أو أكثر"
     },
     "henkei": {
-      "name": "Henkei Shita",
-      "condition": "Get to Footprint Path from the red Henkei Shita located in Hell"
+      "name": "هِنكاي شيتا",
+      "condition": "اذهب إلى طريق أثار الأقدام من هِنكاي شيتا الأحمر الواقع في الجحيم"
     },
     "tokuto": {
-      "name": "Tokuto-kun",
-      "description": "Tip Tokuto-kun over",
-      "condition": "Interact with Tokuto-kun in his room at Mall"
+      "name": "توكوتو-كن",
+      "description": "إقلب على توكوتو-كن على وجهه",
+      "condition": "تفاعل مع توكوتو-كن في غرفته في مركز التسوق"
     },
     "closet": {
-      "name": "Your Own Closet",
-      "description": "The secrets one can find through violence...",
-      "condition": "Reach Mini Hell through Number World"
+      "name": "خزانتكِ",
+      "description": "الأسرار التي تكتشف لمن يستخدم العنف...",
+      "condition": "ادخل الجحيم المصغر في عالم الأرقام"
     },
     "nasu": {
-      "name": "NASU",
-      "condition": "Score 1000 points in NASU"
+      "name": "ناسو",
+      "condition": "سجل 1000 نقطة في لعبة ناسو"
     },
     "nasu_pink": {
-      "name": "Pink NASU",
-      "condition": "Score 2000 points in NASU"
+      "name": "ناسو الوردي",
+      "condition": "سجل 2000 نقطة في لعبة ناسو"
     },
     "nasu_gold": {
-      "name": "Gold NASU",
-      "condition": "Score 3000 points in NASU"
+      "name": "ناسو الذهبي",
+      "condition": "سجل 3000 نقطة في لعبة ناسو"
     },
     "fc_demon": {
-      "name": "FC Demon",
-      "description": "*smooch*",
-      "condition": "Interact with the FC Demon in FC World B"
+      "name": "مارد اف سي",
+      "description": "*عناق*",
+      "condition": "تفاعل مع المارد اف سي في عالم اف سي ب"
     },
     "eye_box": {
-      "name": "Box of Eyes",
-      "condition": "Stab the Eye Box until you get teleported to its area"
+      "name": "صندوق العيون",
+      "condition": "اطعن صندوق العيون حتى تنتقل إلى منطقته"
     },
     "monoko": {
-      "name": "Monoko of the White Desert",
-      "condition": "Interact with Monoko using the Traffic Light effect"
+      "name": "مونوكو في الصحراء البيضاء",
+      "condition": "تفاعل مع مونوكو باستخدام تأثير إشارة المرور"
     },
     "a": {
-      "name": "Scream of the Captured",
-      "condition": "Step on the あ tile in Number World"
+      "name": "الصراخ المسجون",
+      "condition": "كن على البلاطة التي عليها あ في عالم الأرقام"
     },
     "eye": {
-      "name": "Eye of the Captured",
-      "condition": "Step on the eye tile in Number World"
+      "name": "العين المسجون",
+      "condition": "كن على البلاطة التي عليها عين في عالم القناديل"
     },
     "bottles": {
-      "name": "Health Drinks",
-      "condition": "Find all 3 vending machines and buy a drink from each one"
+      "name": "المشروبات الصحية",
+      "condition": "اعثر على كل آلات البيع (3) واشتري شراباً من كل واحدة"
     },
     "mado": {
-      "name": "Window",
-      "condition": "See the Ending"
+      "name": "النافذة",
+      "condition": "اختم مفكرة الأحلام"
     },
     "monoe": {
-      "name": "Monoe of the White Desert",
-      "description": "Now you see her, now you don't",
-      "condition": "Lose sight of Monoe in the White Desert"
+      "name": "مونو من الصحراء البيضاء",
+      "description": "كنت تراها لكن الآن لم تعد كذلك",
+      "condition": "خذ لمحة من مونو في الصحراء البيضاء قبل اختفائها"
     },
     "teleport_bros": {
-      "name": "Warpo and Loople",
-      "condition": "Use the Cat effect near both Warpo and Loople in the teleport maze"
+      "name": "واربو ولووبي",
+      "condition": "استخدم تأثير القط بالقرب من واربو ولووبي في متاهة التنقل"
     },
     "poniko_cat": {
-      "name": "Acknyawledgement",
-      "description": "Ahhh!! So cute!!",
-      "condition": "Use the Cat effect near Poniko"
+      "name": "هِر!!",
+      "description": "آهههه!! ياللطف!!",
+      "condition": "استخدم تأثير القط بالقرب من بونيكو"
     },
     "spaceship_crash_event": {
-      "name": "U-F-Uh-Oh",
-      "description": "Masada, we have a problem!",
-      "condition": "Witness the crash event in Masada's Spaceship"
+      "name": "يو-اف-اه-اوه",
+      "description": "ماسادا، لدينا مشكلة!",
+      "condition": "شاهد حدث احتطام سفينة ماسادا الفضائية"
     },
     "cube_guru_seat": {
-      "name": "Seat Taken",
-      "description": "Steal the Cube Guru's seat in the Windmill World.",
-      "condition": "Move the Cube Guru off of his seat, and then sit on it"
+      "name": "المكان محجوز",
+      "description": "خذ مكان مكعب غورو في عالم طاحونات الهواء.",
+      "condition": "افسح غورو المكعب عن مقعده بعدها اجلس عليه"
     },
     "meow_ufo": {
-      "name": "They Like Me-ow~!",
-      "description": "Purrfect meet up!",
-      "condition": "Summon the UFOs on Mars with the Cat effect"
+      "name": "هم يحبونني~!",
+      "description": "لن يتجاهلوني قط!",
+      "condition": "استدعي سفينات فضائية على كوكب المريخ باستخدام تأثير القط"
     },
     "girl_closet": {
-      "name": "Girl in the Closet",
-      "description": "\"Who are you?\"",
-      "condition": "Open the closet containing Madotsuki in the Checkered Tile Path"
+      "name": "فتاة في الخزانة",
+      "description": "\"من أنتِ؟\"",
+      "condition": "افتح الخزانة التي بداخلها مادوتسوكي في طريق المربعات"
     },
     "quivering_jaw": {
-      "name": "The One Grinding its Teeth",
-      "description": "Is it cold in here, or is it just me?",
-      "condition": "Find The Thing with the Quivering Jaw"
+      "name": "من يَصرُ على أسنانه",
+      "description": "أهذا أنا فقط أم هل الجو باردٌ هنا؟",
+      "condition": "اعثر على الشيء ذو الفك المرتجف"
     },
     "candle_world_toriningen": {
       "name": "Fast and Furious",
-      "description": "*VROOOooooooOoom*",
-      "condition": "Get caught by the Toriningen in the Candle World"
+      "description": "*فروووومممم*",
+      "condition": "دع الطوريننجن يقبضن عليك في عالم الشموع"
     },
     "falling_men": {
-      "name": "Free Falling",
-      "description": "Oh dear...",
-      "condition": "Witness the falling men event"
+      "name": "السقوط الحر",
+      "description": "اوه لا...",
+      "condition": "شاهد حدث الرجلين الساقطين"
     },
     "chop_chop": {
-      "name": "Chop Chop!",
-      "condition": "Visit Big Guillotine World"
+      "name": "تشوب تشوب!",
+      "condition": "قم بزيارة عالم المقصلة"
     },
     "witch_island_cat": {
-      "name": "Beneath the Surface",
-      "condition": "Use the Cat effect next to the three women in blue on Witch's Island"
+      "name": "ما على سطح الماء",
+      "condition": "استخدم تأثير القطة بجانب الثلاث امرأت ذي الرداء الأزرق الداكن على جزيرة الساحرة"
     },
     "severed_heads_event": {
-      "name": "Heads Off to You!",
-      "description": "Sorry, you went in over my head!",
-      "condition": "Activate the Severed Heads event"
+      "name": "أرفع رأسي تحية لك!",
+      "description": "عذراً، طرتِ من فوق رأسي!",
+      "condition": "فعل حدث الرؤوس المقطوعة"
     },
     "scared_masada": {
-      "name": "Moonwalk",
-      "description": "Please put the knife away",
-      "condition": "Make Seccom Masada-sensei walk away with the Kitchen Knife effect"
+      "name": "مشية القمر",
+      "description": "أرجوكي ضع السكين جانباً",
+      "condition": "اجعل سيكوم ماسادا-سينساي يبتعد منك مع تأثير سكين المطبخ"
     },
     "submarine_fish_yn": {
-      "name": "Submerged",
-      "condition": "See the Submarine Fish emerged from the water"
+      "name": "غُوَّصت",
+      "condition": "شاهد سمكة الغواصة وهي خارجة من الماء"
     },
     "manhole_sama_red": {
-      "name": "Flushed",
-      "condition": "See the red variant of Manhole-sama"
+      "name": "محمر",
+      "condition": "شاهد على الشكل المحمر من مانهول-ساما"
     },
     "onsen_stab": {
-      "name": "A Stab in the Dark",
-      "condition": "Stab Onsen-san"
+      "name": "طعنة في الظلمة",
+      "condition": "اطعن اونسن-سان"
     },
     "fc_moai": {
-      "name": "Tomb of the Moai",
-      "description": "What a nice statue!",
-      "condition": "Enter the moai head room in the FC Dungeon"
+      "name": "مقبرة مو-أي",
+      "description": "يا له من تمثال رائع!",
+      "condition": "ادخل غرفة رأس مو-أي في زنزانة اف سي"
     },
     "isee_path": {
-      "name": "Isee Stare",
-      "condition": "Get to Mural World via the Isee Path"
+      "name": "تحديق إسى",
+      "condition": "اذهب إلى عالم الرسوم الجدارية عبر طريق الإسى"
     },
     "mall_shoppers": {
-      "name": "Shop 'til You Drop",
-      "condition": "Interact with all of the Mall Shopper creatures"
+      "name": "تسوق حتى تسقط",
+      "condition": "تفاعل مع كل الكائنات في مركز التسوق"
     },
     "white_desert_lagoon": {
-      "name": "Monochrome Walls",
-      "description": "No concentration, just a white disorder everywhere around me.",
-      "condition": "Travel deep into the dream world to reach the White Desert lagoon"
+      "name": "جدارات الأبيض والأسود",
+      "description": "لا تركيز في التصميم، بل فقط اللون الأبيض المشوش في كل مكان حولي.",
+      "condition": "تعمق أكثر في عالم الأحلام حتى تصل إلى بحيرة الصحراء البيضاء"
     },
     "hell_teleporters": {
-      "name": "Compulsive Sinner",
-      "description": "You just keep coming here, sheesh!",
-      "condition": "Access Hell from Face Carpet Plaza, Neon Tile Path, Checkered Tile Path and Footprint Path"
+      "name": "مذنبة قهري",
+      "description": "يا إلهي، لماذا تعودين وتأتين مراراً وتكراراً!؟",
+      "condition": "ادخل الجحيم عبر ساحة وجوه الأسجدة، طريق بلاطات النيون، طريق المربعات، طريق أثار الأقدام"
     },
     "train_cattention": {
-      "name": "Ailurophobia",
-      "description": "Not even monsters are safe from the cat supremacy :3",
-      "condition": "Catch the Train Passenger A's attention with the Cat effect"
+      "name": "رهاب الهررة",
+      "description": "حتى الوحوش ليسوا آمنين من سيطرة الهررة 3:",
+      "condition": "شتت انتباه الراكب القطار أ باستخدام تأثير القطة"
     },
     "docks_yume": {
-      "name": "Docks",
-      "condition": "Visit the two parts of the Docks"
+      "name": "أرصفة بحرية",
+      "condition": "قم بزيارة الجزئين من الأرصفة البحرية"
     },
     "thunder_oni": {
-      "name": "Rain, Rain, Go Away",
-      "description": "Come again another day!",
-      "condition": "Summon a clap of thunder and lightning using the Oni effect in the Dense Woods A"
+      "name": "ابتعد أيها المطر",
+      "description": "تعال في يومٍ آخر!",
+      "condition": "استدعي ضربة برق باستخدام تأثير مارد في الغابات الكثيفة أ"
     },
     "ghostly_assembly": {
-      "name": "Ghostly Assembly",
-      "description": "Three of a kind.",
-      "condition": "Interact with Nopperabou Ghost and Fleebie while using the Spirit Headband effect and stab Follony with the Kitchen Knife effect"
+      "name": "اجتماع شبحي",
+      "description": "ثلاث من نفس النوع.",
+      "condition": "تفاعل مع الشبح نوبراباو وفليبي عند استخدامك تأثير العصابة الروحية وقم بطعن فولوني وبحوزتك سكين مطبخ"
     },
     "wilderness_fan": {
-      "name": "Desert Explorer",
-      "condition": "Visit every area in the Wilderness"
+      "name": "مستكشف الصحراء",
+      "condition": "استكشف كل منطقة في الصحراء"
     },
     "dave_death": {
-      "name": "Dave-y Jones Locker",
-      "condition": "Stab Dave Specter in the White Desert"
+      "name": "خزانة دايف-ي جونز",
+      "condition": "اطعن دايف الشبح في الصحراء البيضاء"
     },
     "forest_namekuji": {
-      "name": "Boo and Goo",
-      "condition": "Interact with the two types of Namekuji in Forest World"
+      "name": "بوو وجوو",
+      "condition": "تفاعل مع نوعين من النامى كوجي في عالم الغابات"
     },
     "white_tulip": {
-      "name": "Rain and Flowers",
-      "condition": "Visit the white tulip passage between Sky Garden and Ghost World"
+      "name": "أمطار وأزهار",
+      "condition": "زُو فتحة زهرة التوليب البيضاء التي تكون ما بين حديقة السماء وعالم الأشباح"
     },
     "barracks_settlement_pirori": {
-      "name": "Travelin' with Pirori",
-      "condition": "Interact with the Pirori that takes you to FC World B"
+      "name": "السفر مع رجل الظل",
+      "condition": "تفاعل مع رجل الظل الذي ينقلك إلى عالم اف سي ب"
     },
     "jellyfishes_woods": {
-      "name": "In Your Dreams",
-      "condition": "Interact with the Jellyfishes in Dense Woods A and Dense Woods B"
+      "name": "في أحلامك",
+      "condition": "تفاعل مع قناديل البحر في الغابة الكثيفة أ والغابة الكثيفة ب"
     },
     "pink_sea_structures": {
-      "name": "Sweet Pink Waters",
-      "condition": "Go near the two coral-like structures in the Pink Sea"
+      "name": "المياه الوردية الحلوة",
+      "condition": "اذهب بالقرب من البِنائين المرجانيين في بحر الوردي"
     },
     "tasei_kid_witch_island": {
-      "name": "Underwater Doppelgänger",
-      "description": "Does he look familiar?",
-      "condition": "Encounter Tasei's Kid on the Witch's Island"
+      "name": "الشبيه تحت الماء",
+      "description": "أهو يبدو مألوفاً؟",
+      "condition": "قابل فتى تاساي على جزيرة الساحرة"
     },
     "sewers_painting": {
-      "name": "Strange Markings",
-      "description": "Those are some weird pictures...",
-      "condition": "Interact with any of the drawings in the Sewers"
+      "name": "علامات غريبة",
+      "description": "بعض الصور هنا غريبة ...",
+      "condition": "تفحص أي من الرسومات في المجاري"
     },
     "mafurako_block_world": {
-      "name": "Block Traveler",
-      "description": "You've been here before.",
-      "condition": "Visit every place where Mafurako can teleport you in Block World"
+      "name": "سائح المكعبات",
+      "description": "كنت هنا من قبل.",
+      "condition": "قم بزيارة كل الأماكن التي تنقل مافوراكو إليهم في عالم المكعبات"
     },
     "desert_block_world": {
-      "name": "From Block to Mono",
-      "condition": "Visit White Desert A from Block World"
+      "name": "من عالم المكعبات إلى المونوكروم",
+      "condition": "اعبر الصحراء البيضاء أ من عالم المكعبات"
     }
   },
   "2kki": {
@@ -3142,7 +3142,7 @@
     "starry_lake_grove": {
       "name": "Starry Lake",
       "description": "Taking a stroll during a beautiful night...",
-      "condition": "Reveal the starry sky on the the crescent moon-shaped lake in Nocturnal Grove"
+      "condition": "Reveal the starry sky on the crescent moon-shaped lake in Nocturnal Grove"
     },
     "blue_steak": {
       "name": "Blue Steak",
@@ -4082,10 +4082,10 @@
       "description": "owari2 by sakai",
       "condition": "Enter RGB Passage"
     },
-    "chaos_exhibition_scuts": {
-      "name": "Chaotic Soul Artifact",
-      "description": "It seethes with chaotic energy.",
-      "condition": "Unlock all shortcuts in Chaos Exhibition"
+    "debug_badge": {
+      "name": "Endless Omelette Alleys",
+      "description": "Leave them be.",
+      "condition": "Visit Omurice Labyrinth"
     },
     "haunted_village_dolls": {
       "name": "Paper Doll",
@@ -4110,6 +4110,151 @@
       "name": "Fractal Keylock",
       "description": "Secrets beyond the keyhole await you.",
       "condition": "Obtain the menu type 60. If you have already unlocked it, return to the menu type room in Flicker Trail."
+    },
+    "eyeball_mono_school": {
+      "name": "An Eye for an Eye",
+      "description": "Stare any longer, and you're not gonna like what's about to happen!",
+      "condition": "See one of the eyeballs in the Monochrome School"
+    },
+    "space_cyber_bar_drink": {
+      "name": "The Universe in a Glass",
+      "description": "With optional karmotrine.",
+      "condition": "Order from the Cyber Bar with the Spacesuit effect equipped"
+    },
+    "body_nerium_lab": {
+      "name": "Heart of an Addict",
+      "description": "Doomed to the craving of pleasure.",
+      "condition": "See the girl's corpse in Nerium Lab"
+    },
+    "archeology_dunes": {
+      "name": "Scarlet Extinction",
+      "description": "Dinosaur eats man, woman inherits the earth",
+      "condition": "Visit Archeology Dunes"
+    },
+    "shroom_pollution_strict": {
+      "name": "Sporedic Gaze",
+      "description": "The Fungi stares back.",
+      "condition": "Visit the Mushroom Zone in Pollution District"
+    },
+    "tatami_room": {
+      "name": "Eight Tatami Mat Japanese-style Room",
+      "description": "A room from the underworld",
+      "condition": "Enter Tatami Room"
+    },
+    "creature_house_vases": {
+      "name": "The Creature",
+      "description": "It knows how to do the thing",
+      "condition": "Interact with the pink creature in House of Vases"
+    },
+    "girl_sing_port_city": {
+      "name": "Lone Girl Sitting",
+      "description": "Hear my little song.",
+      "condition": "Sit next to the green-haired girl in Port City and hear her sing"
+    },
+    "bird_cuckoo_skyline": {
+      "name": "Free Bird",
+      "description": "The sky's the limit!",
+      "condition": "See the mechanical bird at Cuckoo Skyline Express"
+    },
+    "cat_spiked_fence_garden": {
+      "name": "Kitty-clops",
+      "description": "Mrreow!~",
+      "condition": "Howl at the cat on the wall in Spiked Fence Garden"
+    },
+    "sweet_medical_utopia": {
+      "name": "Sweettopia.exe",
+      "description": "Welcome to this wonderful, cute hospital!",
+      "condition": "Visit Sweet Medical Utopia"
+    },
+    "novaflow_mask_balloon": {
+      "name": "Go with the Flow",
+      "description": "A silly machine!",
+      "condition": "Equip the NovAflow mask in Balloon Park"
+    },
+    "mountains_repentance": {
+      "name": "Repose amidst Grief",
+      "description": "A rather peaceful scene for a place like this...",
+      "condition": "Visit the Twin Mountains view in Graveyard of Repentance"
+    },
+    "cakegirl_cheese_mount": {
+      "name": "CheeseCAKE",
+      "description": "A proper cheese to cake ratio!",
+      "condition": "Equip the Cake effect near Cheesecake Girl on the Cheesecake Mountain"
+    },
+    "tree_concrete_world": {
+      "name": "The Laughing Tree",
+      "description": "What's so funny?",
+      "condition": "Interact with the laughing tree in Concrete World"
+    },
+    "croco_golf_district": {
+      "name": "Little Golfing Nap",
+      "description": "Dreaming of a hole in one",
+      "condition": "Wake up the crocodile in Breezy Golfing District"
+    },
+    "anetra_rave_pinwheel": {
+      "name": "Blood Rave",
+      "description": "How should I react, under this attack? Danger here, danger there, nowhere to escape to and nobody to hear.",
+      "condition": "Trigger Anetra's Rave in Pinwheel Countryside"
+    },
+    "teru_grilled_octopus": {
+      "name": "Charred Octopus",
+      "description": "That's a bit more than well done...",
+      "condition": "Use the Teru Teru Bōzu effect in Grilled Octopus World"
+    },
+    "morning_suburbs": {
+      "name": "Another Day",
+      "description": "Good morning, world.",
+      "condition": "Visit Morning Suburbs"
+    },
+    "cornelius_bloom": {
+      "name": "Gnomed!",
+      "description": "I'M A GNOME AND YOU'VE BEEN GNOMED!!!!!!!!",
+      "condition": "Interact with Cornelius in Bloom 99"
+    },
+    "secret_society_president": {
+      "name": "Pray for my Daughter",
+      "description": "When I got lost, you were gone.",
+      "condition": "Interact with the Secret Society's president kneeling in front of a water tank"
+    },
+    "beniko_thumbtack": {
+      "name": "Stray for my Soul",
+      "description": "When I got lost, you were there for me.",
+      "condition": "Interact with Beniko at the edge of the cliff of Thumbtack World"
+    },
+    "aiko_dream_pool_int": {
+      "name": "Eye",
+      "description": "I can feel her eye on me.",
+      "condition": "Interact with Aiko in Dream Pool"
+    },
+    "secret_room_neon_apt": {
+      "name": "My sweet...",
+      "description": "Did you think you could escape?",
+      "condition": "Reach the forbidden room in the Neon Apartment of the Pleasure Street"
+    },
+    "bed_lighthouse_himalayan": {
+      "name": "Sweet Girl, Salty Sea",
+      "description": "I hope her cooking isn't TOO salty...",
+      "condition": "Sleep in the lighthouse in Himalayan Salt Shoal"
+    },
+    "hakogone_visine_world": {
+      "name": "Ommetaphobia",
+      "description": "After all, were the eye drops supposed to prevent something worse from happening?",
+      "condition": "Find the new occupant of Hakoko's box in the Eye Shop of Visine World after making her be gone"
+    },
+    "overgrown_gate": {
+      "name": "Eden",
+      "description": "The gates of the \"Garden\"",
+      "condition": "Visit Overgrown Gate"
+    },
+    "robot_hand_hub": {
+      "name": "Anomalous Entity Protocol",
+      "description": "ENGAGING LIFEFORM SCANNING INTERFACE.",
+      "condition": "Use the Marginal or Polygon effect near the white robot in The Hand Hub"
+    },
+    "jade_block_mounds": {
+      "name": "Cubes of Jade",
+      "description": "Trade them for staircases!!",
+      "condition": "Enter Jade Block Mounds"
     }
   },
   "unconscious": {
@@ -4316,7 +4461,7 @@
     "death_field_buried_memory": {
       "name": "A Gruesome Fate",
       "description": "Who could've done this to you?",
-      "condition": "Interact the the electric pylon in Field of Buried Memory "
+      "condition": "Interact with the electric pylon in Field of Buried Memory"
     },
     "bed_hometown": {
       "name": "A Nostalgic Night",
@@ -4357,10 +4502,6 @@
       "name": "One Dopey Fish",
       "description": "You must have a keen eye for aquatic life",
       "condition": "See the dopefish in Underwater Pipes"
-    },
-    "orchid_haven": {
-      "name": "The Orchids",
-      "condition": "View the two versions of Orchid Haven"
     },
     "porridge_colorful_village": {
       "name": "Oh, You Found Us!",
@@ -4463,6 +4604,143 @@
       "name": "Pet Pet Pat Pot Pet",
       "description": "Pet Minna. Love Minna.",
       "condition": "Stand under the skeletal hand in Candy Lagoon"
+    },
+    "coyote_rave_ruins": {
+      "name": "Dancing Coyote",
+      "description": "Coyotes are good dancers",
+      "condition": "View the Coyote Rave event in Lavender Ruins"
+    },
+    "witch_fantasy_forest": {
+      "name": "Starlight Witch",
+      "description": "Twinkling starlight",
+      "condition": "See the Starlight Witch in Fantasy Forest"
+    },
+    "menu_golf_maze": {
+      "name": "Minna Woods",
+      "description": "Congratulations, you're the champion!",
+      "condition": "Obtain the Golfer menu theme. If you have already unlocked it, return to the Mini Golf Maze."
+    },
+    "menu_chromatic_slabs": {
+      "name": "Out of Focus",
+      "condition": "Obtain the Chromatic menu theme. If you have already unlocked it, return to the Chromatic Slabs World."
+    },
+    "cultist_sub_stadium": {
+      "name": "Occult Entertainment",
+      "description": "Behind the mystique, they really aren't so different from us.",
+      "condition": "Find the hidden cultists in their two different hideouts in Subterranean Stadium"
+    },
+    "lantern_head_gbc_village": {
+      "name": "Lantern Head",
+      "description": "I wasn't expecting to find someone like you down here!",
+      "condition": "Find Lantern Head under GBC Village"
+    },
+    "wandering_together": {
+      "name": "Wandering Together!",
+      "description": "Let's go for a ride, my wandering friend!",
+      "condition": "Trigger the Wandering Together event"
+    },
+    "ride_train_station": {
+      "name": "Lag Ride",
+      "description": "I'll take a ride on the train ride",
+      "condition": "Trigger the Train Ride event in Train Station"
+    },
+    "cosmic_horror": {
+      "name": "Celestial Horrors",
+      "description": "Curiosity is a treacherous thing.",
+      "condition": "Trigger the Cosmic Horror event in Celestial Platforms"
+    },
+    "moon_snowy_world": {
+      "name": "Snowy Night",
+      "condition": "Look up at the moon in Snowy World"
+    },
+    "house_bright_cloud": {
+      "name": "Butterfleye",
+      "description": "Cast away in the space between then and now",
+      "condition": "Reach the house in Bright Cloud Zone"
+    },
+    "figure_burning_building": {
+      "name": "Slow Burn",
+      "condition": "Witness the Figure in the Flames event at the front of the Burning Building"
+    },
+    "night_train_station": {
+      "name": "Missed the Train",
+      "description": "3.9% chance for you to have missed the train, how unlucky are you???",
+      "condition": "Trigger the Night Train event in Train Station"
+    },
+    "pathway_rgb_sewers": {
+      "name": "Bufotoxin",
+      "description": "Who knew these frogs could be so... unnerving.",
+      "condition": "Enter the glitched pathway in RGB Sewers"
+    },
+    "cat_septic_rodentia": {
+      "name": "Nyam Nyam Nyam",
+      "description": "I thought you would be friendly!",
+      "condition": "Interact with the cat in Septic while using the Rodentia eidolon"
+    },
+    "bunny_wisteria_grove": {
+      "name": "Graffiti Bunnies",
+      "description": "This would make for a great picnic spot! I just wish I'd brought food for the bunnies too...",
+      "condition": "See the bunny graffiti in Wisteria Grove"
+    },
+    "hadie_brut_warehouse": {
+      "name": "Brutalist Breaktime",
+      "description": "I left my lighter at home...",
+      "condition": "Use the Soulfire eidolon to light Hadie's cigarette in Brutalist Warehouse"
+    },
+    "prisoner_glass_cathedral": {
+      "name": "Prison of Glass",
+      "description": "Sealed away, bound by starry shackles...",
+      "condition": "Find the Celestial Prisoner in Glass Cathedral"
+    },
+    "realistic_field_all": {
+      "name": "Landscape of Cryptids",
+      "description": "Flowering fields and tentacled beasts",
+      "condition": "Visit all of the areas in Realistic Field"
+    },
+    "phanton_wisteria_grove": {
+      "name": "The Phantom Last Dance",
+      "description": "Don't let your wings remain down little ghost, there is still a whole dance ahead.",
+      "condition": "Find the Wisteria Phantom in Wisteria Grove"
+    },
+    "minna_punish_mono_msl": {
+      "name": "Futile Struggle",
+      "description": "One must imagine Minna happy",
+      "condition": "Trigger the Minnatsuki's Punishment event in the Monochrome Mausoleum"
+    },
+    "laptop_tragic_dimension": {
+      "name": "Blurryface",
+      "description": "The ghost of you is close to me...",
+      "condition": "Interact with the laptop in Tragic Dimension"
+    },
+    "snail_mossy_aquarium": {
+      "name": "Shell Friend",
+      "description": "Welcome to my little shellter",
+      "condition": "Interact with the snail fella in Moss Aquarium"
+    },
+    "angel_flower_valley_apt": {
+      "name": "Seraphic Roomie",
+      "description": "I've got my Eye on you, Dear.",
+      "condition": "Interact with Angel in Flower Valley Apartments"
+    },
+    "tatami_galaxy": {
+      "name": "Constellation of Lanterns",
+      "description": "Glowing memories.",
+      "condition": "Visit Tatami Galaxy"
+    },
+    "graffiti_ruminating_mdws": {
+      "name": "Her Eyes",
+      "description": "Spending the days ruminating of a future that could have been.",
+      "condition": "See the eye graffiti in Ruminating Meadows using an altered sight eidolon"
+    },
+    "dress_smiling_pen_office": {
+      "name": "Minna in Black",
+      "description": "PROFITS!!!",
+      "condition": "Wear the suit in Smiling Pen Office"
+    },
+    "wanderer_flower_vly_apt": {
+      "name": "A Girl's Rest",
+      "description": "Oh hey, I've seen you before! Um... Were you... Minnatsuki?",
+      "condition": "Find the Wanderer on her balcony in Flower Valley Apartments"
     }
   },
   "flow": {
@@ -4535,7 +4813,7 @@
     },
     "oreko": {
       "name": "Oreko",
-      "condition": "Obtain the Diving Helmet effect. If you have already unlocked it, return to the main area of the Submarine World."
+      "condition": "Obtain the Diving Helmet effect. If you have already unlocked it, return to the Submarine Desert of the Submarine World."
     },
     "onigo_childbirth": {
       "name": "Onigo Childbirth",
@@ -4639,6 +4917,11 @@
     "rust_ending": {
       "name": "Oxidation",
       "condition": "See the Rust Ending"
+    },
+    "cleaner_sugar_hole": {
+      "name": "Gentle Cleaner",
+      "description": "A sugary welcome",
+      "condition": "Compliment the Cleaner with the Dress effect in Sugar Hole"
     }
   },
   "prayers": {
@@ -4736,6 +5019,11 @@
       "name": "Urameshiya!!",
       "description": "A spooky friend resides in the shrine's corner...",
       "condition": "Interact with the kasa-obake in the Miko Shrine"
+    },
+    "chimiko_shrine_anger": {
+      "name": "Tainted Shrine",
+      "description": "You mess with one of us, you mess with all of us",
+      "condition": "Anger all of the Chimikos in Miko Shrine"
     }
   },
   "deepdreams": {
@@ -4925,6 +5213,11 @@
     "dd_ending_3": {
       "name": "Above Horizon",
       "condition": "See the Ending #3"
+    },
+    "metallic_abandoned_lab": {
+      "name": "Bee Boo-Boo Bop, Boo-Boo Beep!",
+      "description": "Bee-boo-boo, boo-boo-bop? Bee-boo-boo-bop? Boo-boo-bee-bop? Not \"bee-boo-boo-beep\"? Bop? Beep? Boo-boo-bop! ",
+      "condition": "Obtain the Metallic alter. If you have already unlocked it, return to the Abandoned Lab."
     }
   },
   "someday": {
@@ -5287,6 +5580,11 @@
       "name": "Caged Beauty",
       "description": "She's caught up in the colors",
       "condition": "See the large woman encased in glass at the back of the Hotel"
+    },
+    "creature_void_murals": {
+      "name": "A Cold Bloody Figure",
+      "description": "You could use a warm healing.",
+      "condition": "See the injured bloody creature in Void Murals"
     }
   },
   "braingirl": {
@@ -6096,6 +6394,16 @@
     "uv_egg_effect": {
       "name": "Green Eggs and...",
       "condition": "Obtain the Egg effect. If you have already unlocked it, return to the Pinkish Continent."
+    },
+    "girl_old_storehouse": {
+      "name": "Doll Unboxing",
+      "description": "Aww, she's just shy!",
+      "condition": "See and attract the blonde girl outside of her box using the Ribbon or Cake effect in Old Storehouse World"
+    },
+    "emerald_square": {
+      "name": "Emerald Church",
+      "description": "A key point of the events",
+      "condition": "Visit Emerald Square"
     }
   },
   "sheawaits": {
@@ -6484,6 +6792,11 @@
       "name": "Ancient Gear Drink",
       "description": "A drink of high value!",
       "condition": "Visit the bar in Ancient Civilization"
+    },
+    "microwave_library": {
+      "name": "Microwave",
+      "description": "Oops! Looks like the pudding is kneaded.",
+      "condition": "Obtain the Microwave effect. If you have already unlocked it, return to the Library."
     }
   },
   "nostalgic": {
